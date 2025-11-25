@@ -34,8 +34,8 @@ A modern Flutter checklist application with task management, prioritization, and
 git clone https://github.com/your-username/checklist_app.git
 cd checklist_app
 
-# Installation
+# Run all test in a directory
 flutter test
 
-# Run all unit tests in a directory
+# Run unit tests in a directory
 flutter test test/feature/task_bloc_test.dart
