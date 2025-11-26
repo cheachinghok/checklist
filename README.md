@@ -31,7 +31,7 @@ A modern Flutter checklist application with task management, prioritization, and
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/checklist_app.git
+git clone https://github.com/cheachinghok/checklist
 cd checklist_app
 
 # Run all test in a directory
