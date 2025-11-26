@@ -32,7 +32,7 @@ A modern Flutter checklist application with task management, prioritization, and
 1. Clone the repository
 ```bash
 git clone https://github.com/cheachinghok/checklist
-cd checklist_app
+cd checklist
 
 # Run all test in a directory
 flutter test
