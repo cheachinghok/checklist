@@ -37,5 +37,8 @@ cd checklist
 # Run all test in a directory
 flutter test
 
+# Run integration test in a directory
+flutter test integration_test/
+
 # Run unit tests in a directory
 flutter test test/feature/task_bloc_test.dart
